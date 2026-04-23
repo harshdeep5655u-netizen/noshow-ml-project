@@ -1,0 +1,28 @@
+Model used: models/noshow_model_20260423_212406.pkl
+Dataset rows: 110527
+
+Missing Values:
+PatientId         0
+AppointmentID     0
+Gender            0
+ScheduledDay      0
+AppointmentDay    0
+Age               0
+Neighbourhood     0
+Scholarship       0
+Hipertension      0
+Diabetes          0
+Alcoholism        0
+Handcap           0
+SMS_received      0
+No-show           0
+dtype: int64
+
+Feature Drift Check:
+Age mean: 37.089
+Scholarship mean: 0.098
+Hipertension mean: 0.197
+Diabetes mean: 0.072
+Alcoholism mean: 0.030
+Handcap mean: 0.022
+SMS_received mean: 0.321
