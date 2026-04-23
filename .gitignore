@@ -8,9 +8,7 @@ __pycache__/
 venv/
 env/
 noshow_env/
-
-# Model files
-models/*.pkl
+l
 
 # Figures
 figures/*.png
